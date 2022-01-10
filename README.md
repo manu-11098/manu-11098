@@ -30,7 +30,7 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="capacitor" height="25" src="images/capacitor.png"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="pnpm" height="25" src="images/pnpm.svg"></code>
+  <code><img title="pnpm" height="25" src="images/pnpm.png"></code>
 </p>
 <hr>
 <br><br><br><br><br><br>
